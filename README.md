@@ -31,7 +31,7 @@ This project is affiliated with [FGCU](https://www.fgcu.edu/) and will allow use
 1.  Clone the repo.
 
     ```sh
-    git clone https://github.com/orsoknows/florinoun-dapp.git
+    git clone https://github.com/FloriNouns/florinouns-dapp.git
     ```
 
 2.  Install NPM packages.
